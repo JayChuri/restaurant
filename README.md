@@ -1,0 +1,2 @@
+# restaurant
+Webpack restaurant project
