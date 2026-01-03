@@ -1,0 +1,28 @@
+.menu_header{
+    position: relative;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+
+.menu_logo{
+    position: absolute;
+    width: 40px;
+    left: 20px;
+    
+}
+
+.menu_items {
+    width: 50%;
+    margin: 0 auto; /* center the list */
+}
+
+.menu_item {
+    display: flex;
+    justify-content: space-between; /* name left, price right */
+    align-items: center;
+    padding: 8px 0;
+    
+}

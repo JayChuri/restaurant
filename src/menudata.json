@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "dessert",
+    "menuTitle": "Desserts",
+    "items": [
+      { "name": "Strawberry Cream", "price": "$2.99" },
+      { "name": "Banana Cream", "price": "$2.49" },
+      { "name": "Mix Fruit Cream", "price": "$2.59" },
+      { "name": "Custard Apple Cream", "price": "$2.99" }
+    ]
+  },
+  {
+    "icon": "juice",
+    "menuTitle": "Juices",
+    "items": [
+      { "name": "Strawberry Shake", "price": "$2.99" },
+      { "name": "Banana Juice", "price": "$2.49" },
+      { "name": "Mix Fruit Juice", "price": "$2.59" },
+      { "name": "Custard Apple Shake", "price": "$2.99" }
+    ]
+  }
+]

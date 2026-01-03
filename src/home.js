@@ -8,6 +8,7 @@ export function createHome() {
     const imageDiv = document.createElement("img");
     imageDiv.src = imageJuice;
     imageDiv.alt = "";
+    imageDiv.className = "juice_image";
     mainContentDiv.appendChild(imageDiv);
 
     const contentDiv = document.createElement("div");
@@ -28,4 +29,3 @@ export function createHome() {
 
     return mainContentDiv;
 }
-
