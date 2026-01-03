@@ -4,7 +4,7 @@ import "./menu.css"
 
 // main wrapper
 const mainContent = document.createElement("div");
-mainContent.className = "main_content";
+mainContent.id = "main_content";
 
 function createMenu(menu) {
 
@@ -46,6 +46,8 @@ function createMenu(menu) {
 }
 
 export function createMenus() {
+
+    mainContent.innerHTML ="";
     // render all menus
     menuData.forEach(menu => {
         createMenu(menu);

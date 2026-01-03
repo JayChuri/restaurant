@@ -9,14 +9,14 @@ home_button.addEventListener("click", function () {
     remove_main_content();
     document.body.appendChild(createHome());
     
-})
+});
 
 const menu_button = document.getElementById("menu_button");
 menu_button.addEventListener("click", function () {
     remove_main_content();
     document.body.appendChild(createMenus());
     
-})
+});
 
 function remove_main_content() {
     const main_content = document.getElementById("main_content");
