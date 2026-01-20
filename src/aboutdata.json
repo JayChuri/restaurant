@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Mama Bear",
+        "designation":"Owner",
+        "email":"veryrealid@lovemix.com",
+        "phoneno":"8049804900"
+    },
+    {
+        "name":"Papa Bear",
+        "designation":"Manager",
+        "email":"veryrealid@notfake.com",
+        "phoneno":"8049804999"
+    },
+    {
+        "name":"Son Bear",
+        "designation":"Juicer",
+        "email":"veryrealid@pleasebelieve.com",
+        "phoneno":"8049804420"
+    }
+]

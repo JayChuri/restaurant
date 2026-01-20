@@ -1,0 +1,16 @@
+/* Style for each person card */
+.person_card {
+  width: 50%;
+  padding: 20px 40px;
+  margin: 20px auto;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  
+}
+
+.title {
+  font-weight: 700;
+  color: #3f2a00;
+}
